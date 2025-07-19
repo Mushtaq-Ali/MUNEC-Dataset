@@ -1,2 +1,2 @@
 # MUNEC-Dataset
-MUNEC is an Urdu Named Entities dataset containing 8,759 annotated Named Entities among 119,276 words/tokens of 2,871 sentences collected from seven different news domains including Entertainment, Finance, General, Health, Politics, Science and Sports. The Urdu text was collected from online BBC Urdu News website.
+Mushtaq Urdu Named Entities Corpus (MUNEC) is an Urdu Named Entities annotated dataset, containing 8,759 labelled Named Entities among 119,276 words/tokens from 2,871 sentences collected from 75 articles of seven different news domains including Entertainment, Finance, General, Health, Politics, Science and Sports. The dataset is freely available for research and academic purposes, provided that the authors' work is duly referenced. 
